@@ -1,0 +1,10 @@
+<resources>
+    <!--Title-->
+    <string name="app_name">Send Message App</string>
+    <!--Widgets activity_send_message-->
+    <string name="txvTitleSmString">Escriba su mensaje:</string>
+    <string name="btnSendSmString">Enviar</string>
+    <!--Widgets activity_view_message-->
+    <string name="txvTitleVmString">Aquí su mensaje:</string>
+    <string name="txvContentVmString"></string>
+</resources>
